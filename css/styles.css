@@ -369,6 +369,7 @@ img {
 }
 
 .social-list-item {
+  padding-top: 8px;
 }
 
 .social-list-link {
@@ -485,6 +486,7 @@ img {
 /* Footer div 2 */
 
 .container-medial {
+  padding-left: 120px;
 }
 
 .media-title {
@@ -605,7 +607,7 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--primery-text-color-theme-light);
-  padding-left: 16px;
+
   margin-bottom: 8px;
 }
 
@@ -614,5 +616,4 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--secondary-text-color-theme-light);
-  padding-left: 16px;
 }
