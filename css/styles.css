@@ -369,7 +369,8 @@ img {
 }
 
 .social-list-item {
-  padding-top: 8px;
+  width: 40px;
+  height: 40px;
 }
 
 .social-list-link {
@@ -402,7 +403,7 @@ img {
 .customers-title {
   font-style: normal;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
 
@@ -451,6 +452,7 @@ img {
 }
 
 .container-footer {
+  margin-right: 120px;
 }
 
 .page-footer {
@@ -486,7 +488,6 @@ img {
 /* Footer div 2 */
 
 .container-medial {
-  padding-left: 120px;
 }
 
 .media-title {
