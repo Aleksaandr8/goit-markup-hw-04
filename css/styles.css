@@ -358,6 +358,7 @@ img {
   line-height: 24px;
   text-align: center;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 
 /* ICON TEAM */
@@ -371,7 +372,6 @@ img {
 .social-list-item {
   width: 40px;
   height: 40px;
-  padding-top: 8px;
 }
 
 .social-list-link {
